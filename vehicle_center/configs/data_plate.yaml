@@ -1,0 +1,7 @@
+path: /mnt/hdd_6tb/minji/processed_vehicle_center   # 데이터셋 루트
+train: Train/images         # 학습 이미지
+val: Validation/images      # 검증 이미지
+
+names:
+  0: plate
+  1: car

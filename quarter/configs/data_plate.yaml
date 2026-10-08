@@ -1,0 +1,6 @@
+path: /mnt/hdd_6tb/minji/processed_quarter   # 데이터셋 루트
+train: Train/images         # 학습 이미지
+val: Validation/images      # 검증 이미지
+# Classes
+names:
+  0: plate
